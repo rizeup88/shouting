@@ -1,0 +1,10 @@
+.shout#answer {
+	display: none;
+}
+
+#answer {
+	margin-top: 1em;
+	font-size: 36px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
